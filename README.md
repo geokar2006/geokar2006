@@ -1,16 +1,14 @@
 ### Hi there 👋
+Welcome to my Github profile. I'm android modder. Most often modifying offline Unity IL2CPP games.
 
-<!--
-**geokar2006/geokar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<a href="https://www.youtube.com/geokar2006">
+  <img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/geokar2006/geokar2006/master/res/youtube.svg" />
+</a>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![geokar2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=geokar2006&show_icons=true&theme=tokyonight)](https://github.com/geokar2006)
+[![geokar2006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geokar2006&layout=compact&theme=tokyonight)](https://github.com/geokar2006)
